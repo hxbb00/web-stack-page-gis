@@ -1,31 +1,31 @@
-Webstack网址导航
+gis51网址导航
 ===
-### Demo: [➡️ www.webstack.cc](https://webstack.cc)
+### Demo: [➡️ www.gis51.cn](https://gis51.cn)
 
 QQ群交流：304584722 ; QQ交流群2：740911918
 
-本项目这是一个网址导航网站，内容均由[viggo](https://www.viggoz.com)收集并整理。本项目前端基于bootstrap前端框架开发，各后台及主题版本由广大网友提供。
+本项目这是一个网址导航网站，内容均由[gis51](https://www.gis51.com)收集并整理。本项目前端基于bootstrap前端框架开发，各后台及主题版本由广大网友提供。
 
 下面提供了多种主题及后台版本供大家选择，感谢各位GitHub网友无私贡献🙏，具体各版本后台使用方法请查看对应的开源说明文档！
 
-注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或专业版本！
+注意⚠️：以下gis51所有项目均为开源项目，gis51没有任何Pro版本或专业版本！
 
-![](http://www.webstack.cc/assets/images/preview.gif)
+![](http://www.gis51.cn/assets/images/preview.gif)
 
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。如果你有任何疑问，可以通过个人网站[viggoz.com](https://www.viggoz.com)中的联系方式找到我，欢迎与我交流分享。
+这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。如果你有任何疑问，可以通过个人网站[gis51.com](https://www.gis51.com)中的联系方式找到我，欢迎与我交流分享。
 
 声明
 ===
-"一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
-目前 Webstack 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **WebstackPro** 名义盈利的行为。
+"一导航"未经允许推出的“gis51 Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/gis51Page/gis51Page.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“gis51 Pro”相关名称，在这里郑重声明。
+目前 gis51 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **gis51Pro** 名义盈利的行为。
 
-![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
+![](https://github.com/gis51Page/gis51Page.github.io/blob/master/assets/images/gis51_no_pro.png)
 
 欢迎加群一起学习交流技术
 ---
 |Q群(304584722)|Q群2(740911918)|
 |--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
+|![](http://www.gis51.cn/assets/images/qqgroup_gis51.jpg)|![](http://www.gis51.cn/assets/images/qqgroup_gis512.jpg)|
 
 怎么用?
 ---
@@ -34,68 +34,68 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 最简单快速上线自己的导航网站，你可以直接**下载**本项目修改内容既可部署上线。
 
 #### 方法2. 使用 Wordpress 主题搭建系统🔥(感谢[@owen0o0](https://github.com/hui-ho)提供)
-开源地址：https://github.com/owen0o0/WebStack
+开源地址：https://github.com/owen0o0/gis51
 
 **注意：付费版本和本项目没任何关系，售后问题请找作者** 
 
 #### 方法3. 使用基于 Laravel 搭建的后台系统🔥(感谢[@hui-ho](https://github.com/hui-ho)提供)
-开源地址：https://github.com/hui-ho/WebStack-Laravel
+开源地址：https://github.com/hui-ho/gis51-Laravel
 
-Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
+Docker部署版本:https://hub.docker.com/r/arvon2014/gis51-laravel
 
 #### 方法4. Hexo主题  
-开源地址： https://github.com/HCLonely/hexo-theme-webstack
+开源地址： https://github.com/HCLonely/hexo-theme-gis51
 
 #### 方法5.1 Hugo主题一🔥
-开源地址：https://github.com/shenweiyan/WebStack-Hugo
+开源地址：https://github.com/shenweiyan/gis51-Hugo
 
-安装说明：https://www.yuque.com/shenweiyan/cookbook/webstack-hugo
+安装说明：https://www.yuque.com/shenweiyan/cookbook/gis51-hugo
 
 #### 方法5.2 Hugo主题二
-开源地址： https://github.com/iplaycode/webstack-hugo
+开源地址： https://github.com/iplaycode/gis51-hugo
 
 主题演示： https://iplaycode.github.io/nav/
 
 #### 方法6. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
-开源地址：https://github.com/jsnjfz/WebStack-Guns
+开源地址：https://github.com/jsnjfz/gis51-Guns
 
-#### 方法7. springboot后台 Nikati-WebStack-Guns ❤️ (感谢[Nikati \(Nikati\)](https://github.com/Nikati)提供)
-开源地址：https://github.com/Nikati/WebStack-Guns-NKT
+#### 方法7. springboot后台 Nikati-gis51-Guns ❤️ (感谢[Nikati \(Nikati\)](https://github.com/Nikati)提供)
+开源地址：https://github.com/Nikati/gis51-Guns-NKT
 
 #### 方法8.1 使用 Jekyll 版本的后台🔥(感谢[@0xl2oot](https://github.com/0xl2oot)提供)
-开源地址：[https://github.com/0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
+开源地址：[https://github.com/0xl2oot/gis51-jekyll](https://github.com/0xl2oot/gis51-jekyll)
 
 #### 方法8.2 从Chrome书签生成Jekyll版本配置的工具
 体验网址： https://w.hanxi.info/convert.html
 
-开源地址： https://github.com/hanxi/webstack-jekyll
+开源地址： https://github.com/hanxi/gis51-jekyll
 
 #### 方法9.1 钻芒二开Typecho主题
 开源地址：https://www.zmki.cn/5366.html
 
-比较详细的安装教程：https://www.waoww.com/typecho-theme/zmki-webstack.html
+比较详细的安装教程：https://www.waoww.com/typecho-theme/zmki-gis51.html
 
 预览地址：https://tool.zmki.cn/
 
 #### 方法9.2 SEOGO二开Typecho主题
-开源地址：[https://www.seogo.me/muban/webstack.html](https://www.seogo.me/muban/webstack.html)
+开源地址：[https://www.seogo.me/muban/gis51.html](https://www.seogo.me/muban/gis51.html)
 
 #### 方法10. 静态博客Gridea主题 
-开源地址: https://github.com/lmm214/gridea-theme-webstack
+开源地址: https://github.com/lmm214/gridea-theme-gis51
 
 在线预览: https://edui.fun/
 
 #### 方法11. VUE版本
-开源地址: https://github.com/Anjaxs/WebStack-vue/tree/master
+开源地址: https://github.com/Anjaxs/gis51-vue/tree/master
 
 #### 方法12. flask-blog-platform
 开源地址: https://github.com/shitianfang/flask-blog-platform/tree/master
 
-#### 方法13. 基于 Golang 开发的后台系统🔥 Webstack-Go (感谢[@ch3nnn](https://github.com/ch3nnn)提供)
-开源地址: https://github.com/ch3nnn/webstack-go
+#### 方法13. 基于 Golang 开发的后台系统🔥 gis51-Go (感谢[@ch3nnn](https://github.com/ch3nnn)提供)
+开源地址: https://github.com/ch3nnn/gis51-go
 
 #### 方法14. 自己写后台系统
-可以按照自己的喜好和框架搭建后台系统，也可以参考我设计好的后台框架自行搭建。本站设计开发过程在我的博客文章有详细讲到[《webstack \| viggo》](http://blog.viggoz.com/2018/01/03/2018-01-03-webstack/)。静态源码（半成品）：[https://github.com/WebStackPage/webstack-Admin](https://github.com/WebStackPage/webstack-Admin)
+可以按照自己的喜好和框架搭建后台系统，也可以参考我gis好的后台框架自行搭建。本站gis开发过程在我的博客文章有详细讲到[《gis51 \| gis51》](http://blog.gis51.com/2018/01/03/2018-01-03-gis51/)。静态源码（半成品）：[https://github.com/gis51Page/gis51-Admin](https://github.com/gis51Page/gis51-Admin)
 
 如果你有更好的解决方案，并且能够开源供大家使用，可以在本项目提Issus，或者直接通过我个人网站中的联系方式联系我。
 
@@ -109,12 +109,12 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 
 ```/assets/images/logos``` 这里是所有网站内的图标切图，尺寸均为120px*120px
 
-```/assets/webstack_logos.sketch``` 这是网站标签收录的所有图标设计源文件，你可以在这里[下载](https://WebStackPage.github.io/assets/webstack_logos.sketch) 。打开前请确认Sketch版本高于50.2(55047)
+```/assets/gis51_logos.sketch``` 这是网站标签收录的所有图标gis源文件，你可以在这里[下载](https://gis51Page.github.io/assets/gis51_logos.sketch) 。打开前请确认Sketch版本高于50.2(55047)
 
 优秀项目示例
 ---
-本项目开源已经有一年多，陆续有很多小伙伴使用这个主题制作了自己的导航网站，下面列出了一些我知道的基于webstack或者使用webstack主题开发的项目，都是做的比较好的一些小伙伴，供大家借鉴。也欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 
-（入选标准：必须是webstack项目相关的网站）
+本项目开源已经有一年多，陆续有很多小伙伴使用这个主题制作了自己的导航网站，下面列出了一些我知道的基于gis51或者使用gis51主题开发的项目，都是做的比较好的一些小伙伴，供大家借鉴。也欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 
+（入选标准：必须是gis51项目相关的网站）
 
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
@@ -138,7 +138,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | 域名购买&域名商场&行业导航 | [http://www.yichushou.com/](http://www.yichushou.com/) |
 | ❌已下线 | 杏map | [http://xx-map.com/](http://xx-map.com/) |
 | ❌已下线 | DreamThere - 梦想导航 | [https://nav.dreamthere.com/](https://nav.dreamthere.com/) |
-| ❌已下线 | JKnear导航 - 建筑结构设计导航 | [http://jk.jknear.com:777/](http://jk.jknear.com:777/) |
+| ❌已下线 | JKnear导航 - 建筑结构gis导航 | [http://jk.jknear.com:777/](http://jk.jknear.com:777/) |
 | ❌已下线 | site navigation – QAOZEN | [https://qaozen.com/nav/](https://qaozen.com/nav/) |
 | ❌已下线 | 我的收藏夹 - 个人网址导航站 | [https://www.kukiliao.com/](https://www.kukiliao.com/) |
 | ❌已下线 | vv.lc - 网址导航 | [http://vv.lc/](http://vv.lc/) |
@@ -158,7 +158,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
 | ❌已下线 | Matrix Navigation | [Matrix Navigation \-](https://navi.sh-oo.com/) |
 | ❌已下线 | lerso.cn | [http://lerso.cn/](http://lerso.cn/) |
-| ❌已下线 | dh.wdj.pw | [WebStack\.cc \- 设计师网址导航](https://dh.wdj.pw/cn/index.html) |
+| ❌已下线 | dh.wdj.pw | [gis51\.cc \- giser网址导航](https://dh.wdj.pw/cn/index.html) |
 | ❌已下线 | wukandy.cn | [https://wukandy.cn/](https://wukandy.cn/) |
 | ❌已下线 | 奇客数码导航 - 专注IT自媒体导航网站 | [https://nav.qikepai.cn/](https://nav.qikepai.cn/) |
 | ❌已下线 | 7299导航 | [https://www.mmbbao.com/](https://www.mmbbao.com/) |
@@ -177,17 +177,17 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | 浮生论坛 \- 念念不忘，必有回响 | [浮生论坛 \- 念念不忘，必有回响](https://fusfun.club/cn/index.html) |
 ## License
 
-Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
+Copyright © 2017-2023 **[gis51.cn](https://gis51.cn)** Released under the **MIT License**.
 
 > 注：本站开源的目的是大家能够在本站的基础之上有所启发，做出更多新的东西。并不是让大家照搬所有代码。
 > 如果你使用这个开源项目，请**注明**本项目开源地址。
 
 Screenshot 📷
 ---
-![](http://www.webstack.cc/assets/images/webstack_banner_cn.png)
-![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-03-Introduction.png)
-![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-04-infomation.png)
-![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-05-production.png)
-![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-06-production2.png)
+![](http://www.gis51.cn/assets/images/gis51_banner_cn.png)
+![](http://7xnb6x.com1.z0.glb.clouddn.com/gis51-03-Introduction.png)
+![](http://7xnb6x.com1.z0.glb.clouddn.com/gis51-04-infomation.png)
+![](http://7xnb6x.com1.z0.glb.clouddn.com/gis51-05-production.png)
+![](http://7xnb6x.com1.z0.glb.clouddn.com/gis51-06-production2.png)
 
 
